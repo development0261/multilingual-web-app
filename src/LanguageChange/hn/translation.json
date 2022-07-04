@@ -1,0 +1,29 @@
+{
+
+  "Search":"खोज",
+  "Email":"ईमेल",
+  "Password":"पासवर्ड",
+   "Password Confirmation":"पासवर्ड की पुष्टि",
+    "Sign Up": "साइन अप करें",
+    "Already have an account?": "क्या आपके पास पहले से एक खाता मौजूद है?",
+    "Log In":"लॉग इन करें",
+    "Need an account?" : "खाता चाहिए?",
+    "Forgot Password?" : "पासवर्ड भूल गए?",
+    "Add your detailes":"अपना विवरण जोड़ें",
+    "Id":"पहचान",
+    "Name":"नाम",
+    "Latitude":"अक्षांश",
+    "Longitude":"देशान्तर",
+    "Submit":"सबमिट ",
+    "Users data":"उपयोगकर्ता डेटा",
+    "Action":"क्रिया",
+    "Delete":"मिटाना",
+    "Login": "लॉग इन करें",
+    "Reset Password":"रीसेट पासवर्ड",
+    "Password Reset": "पासवर्ड रीसेट",
+    "Log Out":"लॉग आउट",
+    "Profile":"प्रोफ़ाइल",
+    "Address":"पता",
+    "Search by name or Search by address":"नाम से खोजें या पते से खोजें"
+
+}

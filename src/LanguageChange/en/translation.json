@@ -1,0 +1,31 @@
+{
+  "Search":"Search",
+  "Email":"Email",
+   "Password":"Password",
+   "Password Confirmation": "Password Confirmation",
+   "Sign Up":"Sign Up",
+   "Already have an account?" : "Already have an account?",
+   "Log In": "Log In",
+    "Need an account?" : " Need an account?",
+    "Forgot Password?": "Forgot Password?",
+    "Add your detailes":"Add your detailes",
+    "Id":"Id",
+    "Name":"Name",
+    "Latitude":"Latitude",
+    "Longitude": "Longitude",
+    "Submit":"Submit",
+    "Users data":"Users data",
+    "Action":"Action",
+    "Delete":"Delete",
+    "Login":"Login",
+    "Reset Password":"Reset Password",
+    "Password Reset": "Password Reset",
+    "Log Out":"Log Out",
+    "Profile":"Profile",
+    "Address": "Address",
+    "Search by name or Search by address":"Search by name or Search by address"
+
+
+
+
+}
