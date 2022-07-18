@@ -6,14 +6,13 @@ import "firebase/compat/firestore";
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyA44Pl9xSEHjiiGvldSD-GShJguga2PhOc",
-  authDomain: "react-demo-form.firebaseapp.com",
-  projectId: "react-demo-form",
-  storageBucket: "react-demo-form.appspot.com",
-  messagingSenderId: "565475589286",
-  appId: "1:565475589286:web:192e1bd54cdb6501178867",
+  apiKey: "AIzaSyCwgMQEWZbYCS6Y5xAFgJ14LXu_J2wlm5M",
+  authDomain: "multilingual-web-app.firebaseapp.com",
+  projectId: "multilingual-web-app",
+  storageBucket: "multilingual-web-app.appspot.com",
+  messagingSenderId: "210149959990",
+  appId: "1:210149959990:web:505970ae057e0c66592b97",
 };
-
 
 const app = firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
